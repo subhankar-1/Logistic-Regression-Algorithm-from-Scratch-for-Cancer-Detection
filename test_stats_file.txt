@@ -1,0 +1,7 @@
+ summary Statistics
+----------------------------------------------------------
+Data Set: preprocessed_data_set.csv
+
+accuracy statistics for All five Experiments:[0.96,0.94,0.9 ,0.96,0.94]
+
+Classification Accuracy : 93.84679247483471%
